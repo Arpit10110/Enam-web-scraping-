@@ -1,0 +1,1002 @@
+[
+  {
+    "State": "ANDHRA PRADESH",
+    "APMC's": "GUNTUR",
+    "Commodity": "CHILLI-341",
+    "Min Price": "7,000",
+    "Modal Price": "7,000",
+    "Max Price": "7,000"
+  },
+  {
+    "State": "ANDHRA PRADESH",
+    "APMC's": "GUNTUR",
+    "Commodity": "CHILLI-THAALU",
+    "Min Price": "4,000",
+    "Modal Price": "6,000",
+    "Max Price": "6,200"
+  },
+  {
+    "State": "ANDHRA PRADESH",
+    "APMC's": "GUNTUR",
+    "Commodity": "CHILLI-334",
+    "Min Price": "7,000",
+    "Modal Price": "7,000",
+    "Max Price": "7,000"
+  },
+  {
+    "State": "ANDHRA PRADESH",
+    "APMC's": "GUNTUR",
+    "Commodity": "CHILLI-TEJA",
+    "Min Price": "9,500",
+    "Modal Price": "10,000",
+    "Max Price": "10,000"
+  },
+  {
+    "State": "ANDHRA PRADESH",
+    "APMC's": "KALIKIRI",
+    "Commodity": "TOMATO",
+    "Min Price": "870",
+    "Modal Price": "870",
+    "Max Price": "870"
+  },
+  {
+    "State": "GUJARAT",
+    "APMC's": "BILIMORA",
+    "Commodity": "BRINJAL",
+    "Min Price": "1,000",
+    "Modal Price": "1,200",
+    "Max Price": "1,200"
+  },
+  {
+    "State": "GUJARAT",
+    "APMC's": "BILIMORA",
+    "Commodity": "CAULIFLOWER",
+    "Min Price": "2,000",
+    "Modal Price": "2,000",
+    "Max Price": "2,000"
+  },
+  {
+    "State": "GUJARAT",
+    "APMC's": "BILIMORA",
+    "Commodity": "BHINDI (LADIES FINGER)",
+    "Min Price": "2,750",
+    "Modal Price": "2,750",
+    "Max Price": "3,000"
+  },
+  {
+    "State": "GUJARAT",
+    "APMC's": "BILIMORA",
+    "Commodity": "BOTTLE GOURDE",
+    "Min Price": "1,300",
+    "Modal Price": "1,500",
+    "Max Price": "1,500"
+  },
+  {
+    "State": "GUJARAT",
+    "APMC's": "BILIMORA",
+    "Commodity": "CABBAGE",
+    "Min Price": "750",
+    "Modal Price": "750",
+    "Max Price": "800"
+  },
+  {
+    "State": "GUJARAT",
+    "APMC's": "BILIMORA",
+    "Commodity": "BEANS -CLUSTER",
+    "Min Price": "4,750",
+    "Modal Price": "5,500",
+    "Max Price": "5,500"
+  },
+  {
+    "State": "GUJARAT",
+    "APMC's": "BILIMORA",
+    "Commodity": "TOMATO",
+    "Min Price": "1,250",
+    "Modal Price": "1,250",
+    "Max Price": "1,250"
+  },
+  {
+    "State": "HARYANA",
+    "APMC's": "ADAMPUR",
+    "Commodity": "AMERICAN-COTTON",
+    "Min Price": "7,211",
+    "Modal Price": "7,211",
+    "Max Price": "7,750"
+  },
+  {
+    "State": "HIMACHAL PRADESH",
+    "APMC's": "PALAMPUR",
+    "Commodity": "POTATO",
+    "Min Price": "1,200",
+    "Modal Price": "1,200",
+    "Max Price": "1,200"
+  },
+  {
+    "State": "HIMACHAL PRADESH",
+    "APMC's": "PALAMPUR",
+    "Commodity": "MUSK MELON",
+    "Min Price": "3,200",
+    "Modal Price": "3,200",
+    "Max Price": "3,200"
+  },
+  {
+    "State": "HIMACHAL PRADESH",
+    "APMC's": "PALAMPUR",
+    "Commodity": "BOTTLE GOURD",
+    "Min Price": "1,700",
+    "Modal Price": "1,700",
+    "Max Price": "1,700"
+  },
+  {
+    "State": "HIMACHAL PRADESH",
+    "APMC's": "PALAMPUR",
+    "Commodity": "CUCUMBER",
+    "Min Price": "2,500",
+    "Modal Price": "2,500",
+    "Max Price": "2,500"
+  },
+  {
+    "State": "HIMACHAL PRADESH",
+    "APMC's": "PALAMPUR",
+    "Commodity": "ONION",
+    "Min Price": "1,900",
+    "Modal Price": "1,900",
+    "Max Price": "1,900"
+  },
+  {
+    "State": "HIMACHAL PRADESH",
+    "APMC's": "PALAMPUR",
+    "Commodity": "TOMATO",
+    "Min Price": "2,000",
+    "Modal Price": "2,000",
+    "Max Price": "2,000"
+  },
+  {
+    "State": "HIMACHAL PRADESH",
+    "APMC's": "PALAMPUR",
+    "Commodity": "MANGO",
+    "Min Price": "7,000",
+    "Modal Price": "7,000",
+    "Max Price": "7,000"
+  },
+  {
+    "State": "HIMACHAL PRADESH",
+    "APMC's": "PALAMPUR",
+    "Commodity": "WATER MELON",
+    "Min Price": "1,600",
+    "Modal Price": "1,600",
+    "Max Price": "1,600"
+  },
+  {
+    "State": "HIMACHAL PRADESH",
+    "APMC's": "PALAMPUR",
+    "Commodity": "BRINJAL",
+    "Min Price": "2,200",
+    "Modal Price": "2,200",
+    "Max Price": "2,200"
+  },
+  {
+    "State": "HIMACHAL PRADESH",
+    "APMC's": "PALAMPUR",
+    "Commodity": "BHINDI (LADIES FINGER)",
+    "Min Price": "4,700",
+    "Modal Price": "4,700",
+    "Max Price": "4,700"
+  },
+  {
+    "State": "MADHYA PRADESH",
+    "APMC's": "RATLAM",
+    "Commodity": "WHEAT",
+    "Min Price": "2,530",
+    "Modal Price": "2,530",
+    "Max Price": "2,530"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "BAHADAJHOLA",
+    "Commodity": "CUCUMBER",
+    "Min Price": "4,800",
+    "Modal Price": "4,875",
+    "Max Price": "5,000"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "BAHADAJHOLA",
+    "Commodity": "BRINJAL",
+    "Min Price": "1,750",
+    "Modal Price": "1,750",
+    "Max Price": "1,800"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "BAHADAJHOLA",
+    "Commodity": "LADY FINGER",
+    "Min Price": "1,550",
+    "Modal Price": "1,550",
+    "Max Price": "1,550"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "BANKI",
+    "Commodity": "BITTER GOURD",
+    "Min Price": "1,500",
+    "Modal Price": "1,500",
+    "Max Price": "1,500"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "BANKI",
+    "Commodity": "CABBAGE",
+    "Min Price": "750",
+    "Modal Price": "750",
+    "Max Price": "750"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "BANKI",
+    "Commodity": "CUCUMBER",
+    "Min Price": "1,000",
+    "Modal Price": "1,000",
+    "Max Price": "1,000"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "BANKI",
+    "Commodity": "BHINDI (LADIES FINGER)",
+    "Min Price": "1,250",
+    "Modal Price": "1,250",
+    "Max Price": "1,250"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "BANKI",
+    "Commodity": "BRINJAL-HYBRID",
+    "Min Price": "1,350",
+    "Modal Price": "1,350",
+    "Max Price": "1,350"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "BANKI",
+    "Commodity": "CAULIFLOWER",
+    "Min Price": "1,000",
+    "Modal Price": "1,000",
+    "Max Price": "1,000"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "BANKI",
+    "Commodity": "GREEN CHILLI",
+    "Min Price": "1,500",
+    "Modal Price": "1,500",
+    "Max Price": "1,500"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "BANKI",
+    "Commodity": "RIDGE GOURD (TURAI)",
+    "Min Price": "1,250",
+    "Modal Price": "1,250",
+    "Max Price": "1,250"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "BHADRAK",
+    "Commodity": "PUMPKIN",
+    "Min Price": "570",
+    "Modal Price": "570",
+    "Max Price": "570"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "BONAI",
+    "Commodity": "BITTER GOURD",
+    "Min Price": "2,250",
+    "Modal Price": "2,250",
+    "Max Price": "2,250"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "BONAI",
+    "Commodity": "BHINDI (LADIES FINGER)",
+    "Min Price": "4,500",
+    "Modal Price": "4,500",
+    "Max Price": "4,500"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "BONAI",
+    "Commodity": "POTATO",
+    "Min Price": "3,200",
+    "Modal Price": "3,200",
+    "Max Price": "3,200"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "BONAI",
+    "Commodity": "BRINJAL",
+    "Min Price": "2,200",
+    "Modal Price": "2,200",
+    "Max Price": "2,200"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "BONAI",
+    "Commodity": "ONION",
+    "Min Price": "3,000",
+    "Modal Price": "3,000",
+    "Max Price": "3,000"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "BOUDH",
+    "Commodity": "WATER MELON",
+    "Min Price": "1,000",
+    "Modal Price": "1,000",
+    "Max Price": "1,000"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "BOUDH",
+    "Commodity": "MANGO RAW",
+    "Min Price": "3,500",
+    "Modal Price": "3,500",
+    "Max Price": "3,500"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "JALESWAR",
+    "Commodity": "RIDGE GOURD (TURAI)",
+    "Min Price": "2,500",
+    "Modal Price": "2,500",
+    "Max Price": "2,500"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "JALESWAR",
+    "Commodity": "PAPAYA",
+    "Min Price": "1,800",
+    "Modal Price": "1,800",
+    "Max Price": "1,800"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "JALESWAR",
+    "Commodity": "BRINJAL",
+    "Min Price": "3,800",
+    "Modal Price": "3,800",
+    "Max Price": "3,800"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "JALESWAR",
+    "Commodity": "CUCUMBER",
+    "Min Price": "4,000",
+    "Modal Price": "4,000",
+    "Max Price": "4,000"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "JALESWAR",
+    "Commodity": "LADY FINGER",
+    "Min Price": "1,200",
+    "Modal Price": "1,200",
+    "Max Price": "1,200"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "JALESWAR",
+    "Commodity": "PUMPKIN",
+    "Min Price": "800",
+    "Modal Price": "800",
+    "Max Price": "800"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "JALESWAR",
+    "Commodity": "TOMATO",
+    "Min Price": "2,000",
+    "Modal Price": "2,000",
+    "Max Price": "2,000"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "JALESWAR",
+    "Commodity": "RAW BANANA",
+    "Min Price": "2,200",
+    "Modal Price": "2,200",
+    "Max Price": "2,200"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "JALESWAR",
+    "Commodity": "WATER MELON",
+    "Min Price": "1,600",
+    "Modal Price": "1,600",
+    "Max Price": "1,600"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "JALESWAR",
+    "Commodity": "CARROT",
+    "Min Price": "2,800",
+    "Modal Price": "2,800",
+    "Max Price": "2,800"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "JALESWAR",
+    "Commodity": "IVY GOURD (KUNDRU)",
+    "Min Price": "1,000",
+    "Modal Price": "1,000",
+    "Max Price": "1,000"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "JALESWAR",
+    "Commodity": "POINTED GOURD (PARWAL)",
+    "Min Price": "2,800",
+    "Modal Price": "2,800",
+    "Max Price": "2,800"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "MUKHIGUDA",
+    "Commodity": "RAW BANANA",
+    "Min Price": "1,900",
+    "Modal Price": "1,900",
+    "Max Price": "1,900"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "NILGIRI",
+    "Commodity": "BRINJAL",
+    "Min Price": "1,400",
+    "Modal Price": "1,400",
+    "Max Price": "1,400"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "NILGIRI",
+    "Commodity": "CUCUMBER",
+    "Min Price": "2,500",
+    "Modal Price": "2,500",
+    "Max Price": "2,500"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "NILGIRI",
+    "Commodity": "POINTED GOURD (PARWAL)",
+    "Min Price": "4,500",
+    "Modal Price": "4,500",
+    "Max Price": "4,500"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "NILGIRI",
+    "Commodity": "TOMATO",
+    "Min Price": "2,000",
+    "Modal Price": "2,000",
+    "Max Price": "2,000"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "NILGIRI",
+    "Commodity": "BITTER GOURD",
+    "Min Price": "1,000",
+    "Modal Price": "1,000",
+    "Max Price": "1,000"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "NILGIRI",
+    "Commodity": "BEANS -CLUSTER",
+    "Min Price": "1,600",
+    "Modal Price": "1,600",
+    "Max Price": "1,600"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "NILGIRI",
+    "Commodity": "BHINDI (LADIES FINGER)",
+    "Min Price": "1,500",
+    "Modal Price": "1,500",
+    "Max Price": "1,500"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "NILGIRI",
+    "Commodity": "PUMPKIN",
+    "Min Price": "1,000",
+    "Modal Price": "1,000",
+    "Max Price": "1,000"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "PANPOSH",
+    "Commodity": "CUCUMBER",
+    "Min Price": "2,000",
+    "Modal Price": "2,000",
+    "Max Price": "2,000"
+  },
+  {
+    "State": "ODISHA",
+    "APMC's": "PANPOSH",
+    "Commodity": "BOTTLE GOURD",
+    "Min Price": "2,000",
+    "Modal Price": "2,000",
+    "Max Price": "2,000"
+  },
+  {
+    "State": "RAJASTHAN",
+    "APMC's": "BIKANER GRAIN",
+    "Commodity": "MUSTARD",
+    "Min Price": "5,940",
+    "Modal Price": "6,801",
+    "Max Price": "6,901"
+  },
+  {
+    "State": "RAJASTHAN",
+    "APMC's": "BIKANER GRAIN",
+    "Commodity": "WHEAT",
+    "Min Price": "2,121",
+    "Modal Price": "2,575",
+    "Max Price": "2,880"
+  },
+  {
+    "State": "RAJASTHAN",
+    "APMC's": "BIKANER GRAIN",
+    "Commodity": "FENUGREEK (WHOLE)",
+    "Min Price": "4,940",
+    "Modal Price": "4,940",
+    "Max Price": "4,940"
+  },
+  {
+    "State": "RAJASTHAN",
+    "APMC's": "BIKANER GRAIN",
+    "Commodity": "BARLEY (JAU)",
+    "Min Price": "2,110",
+    "Modal Price": "2,124",
+    "Max Price": "2,124"
+  },
+  {
+    "State": "RAJASTHAN",
+    "APMC's": "KHAIRTHAL",
+    "Commodity": "BAJRA",
+    "Min Price": "2,250",
+    "Modal Price": "2,350",
+    "Max Price": "2,370"
+  },
+  {
+    "State": "RAJASTHAN",
+    "APMC's": "KHAIRTHAL",
+    "Commodity": "BARLEY (JAU)",
+    "Min Price": "2,231",
+    "Modal Price": "2,321",
+    "Max Price": "2,325"
+  },
+  {
+    "State": "RAJASTHAN",
+    "APMC's": "KHAIRTHAL",
+    "Commodity": "MUSTARD",
+    "Min Price": "5,250",
+    "Modal Price": "5,739",
+    "Max Price": "6,200"
+  },
+  {
+    "State": "RAJASTHAN",
+    "APMC's": "KHAIRTHAL",
+    "Commodity": "GUAR SEEDS",
+    "Min Price": "4,450",
+    "Modal Price": "4,450",
+    "Max Price": "4,450"
+  },
+  {
+    "State": "RAJASTHAN",
+    "APMC's": "KHAIRTHAL",
+    "Commodity": "BAJRA-LOCAL",
+    "Min Price": "2,311",
+    "Modal Price": "2,351",
+    "Max Price": "2,351"
+  },
+  {
+    "State": "RAJASTHAN",
+    "APMC's": "KHAIRTHAL",
+    "Commodity": "WHEAT",
+    "Min Price": "2,350",
+    "Modal Price": "2,400",
+    "Max Price": "2,490"
+  },
+  {
+    "State": "RAJASTHAN",
+    "APMC's": "KHAIRTHAL",
+    "Commodity": "CHANA (BENGAL GRAM)",
+    "Min Price": "5,300",
+    "Modal Price": "5,300",
+    "Max Price": "5,500"
+  },
+  {
+    "State": "RAJASTHAN",
+    "APMC's": "SRIGANGANAGAR F AND V",
+    "Commodity": "POTATO",
+    "Min Price": "800",
+    "Modal Price": "800",
+    "Max Price": "800"
+  },
+  {
+    "State": "RAJASTHAN",
+    "APMC's": "SRIGANGANAGAR F AND V",
+    "Commodity": "TINDA",
+    "Min Price": "2,300",
+    "Modal Price": "2,300",
+    "Max Price": "2,300"
+  },
+  {
+    "State": "RAJASTHAN",
+    "APMC's": "SRIGANGANAGAR F AND V",
+    "Commodity": "GARLIC",
+    "Min Price": "6,000",
+    "Modal Price": "6,000",
+    "Max Price": "6,000"
+  },
+  {
+    "State": "RAJASTHAN",
+    "APMC's": "SRIGANGANAGAR F AND V",
+    "Commodity": "CAPSICUM",
+    "Min Price": "1,600",
+    "Modal Price": "1,600",
+    "Max Price": "1,600"
+  },
+  {
+    "State": "RAJASTHAN",
+    "APMC's": "SRIGANGANAGAR F AND V",
+    "Commodity": "ARBI (COLACASIA)",
+    "Min Price": "4,500",
+    "Modal Price": "4,500",
+    "Max Price": "4,500"
+  },
+  {
+    "State": "RAJASTHAN",
+    "APMC's": "SRIGANGANAGAR F AND V",
+    "Commodity": "GREEN CHILLI",
+    "Min Price": "2,000",
+    "Modal Price": "2,000",
+    "Max Price": "2,000"
+  },
+  {
+    "State": "RAJASTHAN",
+    "APMC's": "SRIGANGANAGAR F AND V",
+    "Commodity": "PUMPKIN",
+    "Min Price": "2,000",
+    "Modal Price": "2,000",
+    "Max Price": "2,000"
+  },
+  {
+    "State": "RAJASTHAN",
+    "APMC's": "SRIGANGANAGAR F AND V",
+    "Commodity": "MANGO RAW",
+    "Min Price": "3,500",
+    "Modal Price": "3,500",
+    "Max Price": "3,500"
+  },
+  {
+    "State": "RAJASTHAN",
+    "APMC's": "SRIGANGANAGAR F AND V",
+    "Commodity": "BOTTLE GOURD",
+    "Min Price": "1,100",
+    "Modal Price": "1,100",
+    "Max Price": "1,100"
+  },
+  {
+    "State": "RAJASTHAN",
+    "APMC's": "SRIGANGANAGAR F AND V",
+    "Commodity": "CAULIFLOWER",
+    "Min Price": "1,900",
+    "Modal Price": "1,900",
+    "Max Price": "1,900"
+  },
+  {
+    "State": "RAJASTHAN",
+    "APMC's": "SRIGANGANAGAR F AND V",
+    "Commodity": "CUCUMBER",
+    "Min Price": "1,200",
+    "Modal Price": "1,200",
+    "Max Price": "1,200"
+  },
+  {
+    "State": "TAMIL NADU",
+    "APMC's": "MECHERI",
+    "Commodity": "COPRA",
+    "Min Price": "10,819",
+    "Modal Price": "17,075",
+    "Max Price": "17,990"
+  },
+  {
+    "State": "UTTAR PRADESH",
+    "APMC's": "BAREILLY",
+    "Commodity": "BRINJAL",
+    "Min Price": "700",
+    "Modal Price": "700",
+    "Max Price": "700"
+  },
+  {
+    "State": "UTTAR PRADESH",
+    "APMC's": "BAREILLY",
+    "Commodity": "CAULIFLOWER",
+    "Min Price": "650",
+    "Modal Price": "650",
+    "Max Price": "660"
+  },
+  {
+    "State": "UTTAR PRADESH",
+    "APMC's": "BAREILLY",
+    "Commodity": "CABBAGE",
+    "Min Price": "600",
+    "Modal Price": "600",
+    "Max Price": "600"
+  },
+  {
+    "State": "UTTAR PRADESH",
+    "APMC's": "BAREILLY",
+    "Commodity": "CUCUMBER",
+    "Min Price": "750",
+    "Modal Price": "760",
+    "Max Price": "760"
+  },
+  {
+    "State": "UTTAR PRADESH",
+    "APMC's": "MAHOBA",
+    "Commodity": "CHANA (BENGAL GRAM)-DESI",
+    "Min Price": "5,900",
+    "Modal Price": "5,900",
+    "Max Price": "5,900"
+  },
+  {
+    "State": "UTTAR PRADESH",
+    "APMC's": "MAHOBA",
+    "Commodity": "WHITE PEAS",
+    "Min Price": "3,400",
+    "Modal Price": "3,400",
+    "Max Price": "3,400"
+  },
+  {
+    "State": "UTTAR PRADESH",
+    "APMC's": "SADABAD APMC",
+    "Commodity": "BOTTLE GOURD",
+    "Min Price": "752",
+    "Modal Price": "752",
+    "Max Price": "752"
+  },
+  {
+    "State": "UTTAR PRADESH",
+    "APMC's": "SADABAD APMC",
+    "Commodity": "POTATO",
+    "Min Price": "982",
+    "Modal Price": "982",
+    "Max Price": "982"
+  },
+  {
+    "State": "UTTAR PRADESH",
+    "APMC's": "SADABAD APMC",
+    "Commodity": "TOMATO",
+    "Min Price": "612",
+    "Modal Price": "612",
+    "Max Price": "612"
+  },
+  {
+    "State": "UTTAR PRADESH",
+    "APMC's": "SADABAD APMC",
+    "Commodity": "BRINJAL",
+    "Min Price": "753",
+    "Modal Price": "753",
+    "Max Price": "753"
+  },
+  {
+    "State": "UTTAR PRADESH",
+    "APMC's": "SADABAD APMC",
+    "Commodity": "PUMPKIN",
+    "Min Price": "503",
+    "Modal Price": "503",
+    "Max Price": "503"
+  },
+  {
+    "State": "UTTAR PRADESH",
+    "APMC's": "VARANASI",
+    "Commodity": "GREEN CHILLI",
+    "Min Price": "1,000",
+    "Modal Price": "1,000",
+    "Max Price": "1,000"
+  },
+  {
+    "State": "UTTAR PRADESH",
+    "APMC's": "VARANASI",
+    "Commodity": "TOMATO",
+    "Min Price": "500",
+    "Modal Price": "500",
+    "Max Price": "500"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "APMC's": "KASHIPUR",
+    "Commodity": "BANANA",
+    "Min Price": "2,400",
+    "Modal Price": "2,400",
+    "Max Price": "2,400"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "APMC's": "KASHIPUR",
+    "Commodity": "PAPAYA",
+    "Min Price": "2,400",
+    "Modal Price": "2,400",
+    "Max Price": "2,400"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "APMC's": "KASHIPUR",
+    "Commodity": "CORIANDAR",
+    "Min Price": "2,400",
+    "Modal Price": "2,400",
+    "Max Price": "2,400"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "APMC's": "KASHIPUR",
+    "Commodity": "CUCUMBER",
+    "Min Price": "700",
+    "Modal Price": "700",
+    "Max Price": "700"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "APMC's": "KASHIPUR",
+    "Commodity": "RADDISH",
+    "Min Price": "700",
+    "Modal Price": "2,001",
+    "Max Price": "2,001"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "APMC's": "KASHIPUR",
+    "Commodity": "GUAVA",
+    "Min Price": "3,300",
+    "Modal Price": "3,300",
+    "Max Price": "3,300"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "APMC's": "KASHIPUR",
+    "Commodity": "CHILLIES",
+    "Min Price": "2,400",
+    "Modal Price": "2,400",
+    "Max Price": "2,400"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "APMC's": "KASHIPUR",
+    "Commodity": "BOTTLE GOURD",
+    "Min Price": "1,300",
+    "Modal Price": "1,300",
+    "Max Price": "1,300"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "APMC's": "KASHIPUR",
+    "Commodity": "LADY FINGER",
+    "Min Price": "2,500",
+    "Modal Price": "2,500",
+    "Max Price": "2,500"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "APMC's": "KASHIPUR",
+    "Commodity": "RIDGE GOURD (TURAI)",
+    "Min Price": "3,300",
+    "Modal Price": "3,300",
+    "Max Price": "3,300"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "APMC's": "ROORKEE",
+    "Commodity": "BEANS -CLUSTER",
+    "Min Price": "800",
+    "Modal Price": "800",
+    "Max Price": "800"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "APMC's": "ROORKEE",
+    "Commodity": "GREEN CHILLI",
+    "Min Price": "1,500",
+    "Modal Price": "1,500",
+    "Max Price": "1,500"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "APMC's": "ROORKEE",
+    "Commodity": "ONION",
+    "Min Price": "900",
+    "Modal Price": "900",
+    "Max Price": "900"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "APMC's": "ROORKEE",
+    "Commodity": "RIDGE GOURD (TURAI)",
+    "Min Price": "800",
+    "Modal Price": "800",
+    "Max Price": "800"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "APMC's": "ROORKEE",
+    "Commodity": "WATER MELON",
+    "Min Price": "800",
+    "Modal Price": "800",
+    "Max Price": "800"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "APMC's": "ROORKEE",
+    "Commodity": "BOTTLE GOURD",
+    "Min Price": "750",
+    "Modal Price": "750",
+    "Max Price": "750"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "APMC's": "ROORKEE",
+    "Commodity": "CAPSICUM",
+    "Min Price": "800",
+    "Modal Price": "800",
+    "Max Price": "800"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "APMC's": "ROORKEE",
+    "Commodity": "CUCUMBER",
+    "Min Price": "900",
+    "Modal Price": "900",
+    "Max Price": "900"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "APMC's": "ROORKEE",
+    "Commodity": "LADY FINGER",
+    "Min Price": "1,000",
+    "Modal Price": "1,000",
+    "Max Price": "1,000"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "APMC's": "ROORKEE",
+    "Commodity": "POTATO",
+    "Min Price": "800",
+    "Modal Price": "800",
+    "Max Price": "850"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "APMC's": "ROORKEE",
+    "Commodity": "TOMATO",
+    "Min Price": "800",
+    "Modal Price": "800",
+    "Max Price": "800"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "APMC's": "ROORKEE",
+    "Commodity": "BITTER GOURD",
+    "Min Price": "1,000",
+    "Modal Price": "1,000",
+    "Max Price": "1,000"
+  },
+  {
+    "State": "UTTARAKHAND",
+    "APMC's": "ROORKEE",
+    "Commodity": "BRINJAL",
+    "Min Price": "850",
+    "Modal Price": "850",
+    "Max Price": "850"
+  }
+]
